@@ -1,4 +1,4 @@
 ﻿# Keeb Trainning
-![](/assets/pcb1.png)
+![PCB1](assets/pcb1.png)
 
-![](/assets/pcb2.png)
+![PCB2](assets/pcb2.png)
